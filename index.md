@@ -2,6 +2,7 @@
 title: 오늘 공부 기록
 layout: home
 has_children: false
+nav_order: 1
 ---
 
 # 오늘 공부 기록.
