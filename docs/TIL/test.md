@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 20230626
+title: test
 parent: Today I Learned
 ---
 
